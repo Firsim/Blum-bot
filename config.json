@@ -1,0 +1,22 @@
+{
+    "button_text": "Play",
+    "telegram_window_name": "Mini App: Blum",
+    "colors": [
+        {
+            "red": 60,
+            "green": 220,
+            "blue": 10
+        },
+        {
+            "red": 200,
+            "green": 225,
+            "blue": 10
+        }
+    ],
+    "click_delay_min": 5,
+    "click_delay_max": 10,
+    "button_relative_position": {
+        "x": 50,
+        "y": 87.77
+    }
+}
